@@ -6,4 +6,4 @@ const resta =(a,b)=>{
    return a-b;
 }
 
-export {resta,suma};
+export{resta,suma};
